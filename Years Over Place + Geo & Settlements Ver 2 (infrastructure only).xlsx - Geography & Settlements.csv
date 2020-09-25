@@ -1,0 +1,326 @@
+Place_Name,Item,New Name (if needed),Category,Sub1,Sub2,Within_Places,Total_Instances,Latitude,Longitude,Source? (for LatLon),Notes/questions
+Chrysion,Constantinople - Chrysion,,infrastructure,Populus,workshop,,1,,,,
+Sea Walls,Constantinople - Sea Walls,,infrastructure,Defense,walls,,1,,,,Golden Horn or Propontis?
+Antioch (Syria) - The Walls,Antioch (Syria) - The Walls,,infrastructure,Defense,walls,,1,,,,Wall of Justinian? Wall of Tiberius
+"Kentenaresios, tower",Chersaion - Kentenaresios,,infrastructure,Defense,tower,,1,,,,
+Tomb of Babylas,Antioch (Syria) - Tomb of Babylas,,infrastructure,Imperium,tomb,,1,,,,"this is in Daphne, the suburb of Antioch. I don't have a more specific coordinate yet (here is the coordinate for daphne: https://pleiades.stoa.org/places/658450)"
+The Theatre,Alexandria - Theatre,,infrastructure,Populus,theater,,1,,,,
+Theater,Constantinople - Theater,,infrastructure,Populus,theater,,1,41.011471,28.98586,,
+Terrace of the Magnaura,Terrace of the Magnaura,,infrastructure,Senatus,terrace,,1,,,,
+Temple of Aphrodite,Aphaka - Temple of Aphrodite,,infrastructure,Religious Non-Christian,temple,,1,36.6889,27.3733,,
+Aigai - Temple of Asklepios,Aigai - Temple of Asklepios,,infrastructure,Religious Non-Christian,temple,,1,37.5983,23.0743,https://pleiades.stoa.org/places/570127?searchterm=temple+of+asklepios,
+Constantinople - Hagia Sophia Synthronon,Constantinople - Hagia Sophia Synthronon,Constantinople - Synathronon in Hagia Sofia,infrastructure,Ecclesia,church,within Hagia Sophia,1,,,,
+Synagogue,Constantinople - Synagogue,,infrastructure,Religious Non-Christian,synagogue,,1,41.009504,28.978344,https://www.thebyzantinelegacy.com/chalkoprateia,"the text refers to the synagogue as being in ""in the Chalkoprateia"" before Justin destroys it; the byzantine legacy says this church (The Church of Theotokos Chalkoprateia) was built on the site of an old synagogue NK"
+Hippodrome (covered),Constantinople - Hippodrome (covered),,infrastructure,Populus,stadium,within Palace,1,41.0059,28.975397,,
+Tzoukanisterin,Ephesos - Tzoukanisterin,,infrastructure,Populus,stadium,,1,37.950161,27.37012,"https://www.google.com/maps/place/Ephesus+Stadium/@37.9499408,27.3701628,15z/data=!4m5!3m4!1s0x0:0x22a2a90b5933b9a6!8m2!3d37.9499408!4d27.3701628","I think this should be the correct coordinates, as Tzoukanisterin refers to a stadium, and this is the location of the stadium of ephesos"
+"Holy Resurrection, church of",Jerusalem - Holy Resurrection Church,,infrastructure,Ecclesia,church,,1,,,,"this should be combined with ""Jerusalem - Holy Sepulchre Church"""
+"Sergius the Martyr, sanctuary of (St. Hormisdas)",Constantinople - Sergius the Martyr (St. Hormisdas),,infrastructure,Ecclesia,shrine,,1,41.002747,28.972227,"https://www.google.com/maps/dir//41.002727,28.972213/@41.0027958,28.9702311,16.65z",
+"St. Kallinikos, Shrine",Gangra - St. Kallinikos,,infrastructure,Ecclesia,shrine,,1,,,,
+"St. Peter, shrine",Rome - St. Peter,,infrastructure,Ecclesia,shrine,,1,41.5408,12.2712,https://en.wikipedia.org/wiki/St._Peter%27s_Basilica,
+"St. Stephen, Martyrium",Antioch (Syria) - Martyrium of St. Stephen ,,infrastructure,Ecclesia,shrine,,1,,,,"No sources directly mention its location (also see Glanville Downey's A History of Antioch in Syria from Seleucus to the Arab Conquest, p.520. So far I only know it's (perhaps) at the west side of the city and was burned down during the AD525 great fire."
+"St. Thomas, Shrine of",Edessa - Shrine of St. Thomas,,infrastructure,Ecclesia,shrine,,1,38.4072,42.8917,"https://www.google.com/maps/place/Alt%C4%B1nsa%C3%A7,+65700+Geva%C5%9F%2FVan,+Turkey/@38.4068854,42.8874122,16z/data=!3m1!4b1!4m5!3m4!1s0x400d9d772d74051d:0x3614ae16bfe1116!8m2!3d38.4067999!4d42.8917",
+Dining Room with the Bronze Doors,Constantinople - Dining Room with Bronze Doors in Great Palace,,infrastructure,Imperium,room,within Great Palace,1,,,,
+Porphyra,Constantinople - Porphyra in Great Palace,,infrastructure,Imperium,room,within Great Palace,1,,,,
+The Pulpita,Constantinople - The Pulpita in Great Palace,,infrastructure,Imperium,room,within Great Palace,1,41.006264,28.976293,,"This is the approximate locationn; according to Paolo A. Belzoni, the Pulpita is nearlly adjuncent to the east side of the Hippodrome"
+Prison,Constantinople - Prison,,infrastructure,Imperium,prison,,1,,,,"this should be within ""Constantinople - Praetorium"""
+Portico of the Domninos,Constantinople - Portico of the Domninos,Constantinople - Portico of the Domninos in the Church of Anastasius,infrastructure,Populus,portico,within The Church of Anatasius,1,,,https://www.oxfordreference.com/view/10.1093/acref/9780195046526.001.0001/acref-9780195046526-e-2124?rskey=IWjiHn&result=2,"this being added to ""Within the Church of Anastasius"" is new -- please update that rachel (thanks!) EDIT: This is in the CP Palimpsest map, but drawn off of the wikimap. How do we want to do this? "
+Portico of the Protectores,Constantinople - Portico of the Protectores,,infrastructure,Populus,portico,,1,,,,
+The Portico of the Basilica,Constantinople - The Portico of the Basilica,,infrastructure,Populus,portico,,1,,,,
+Pier of St. Thomas,Constantinople - Pier of St. Thomas,,infrastructure,Hydrology,pier,,1,,,,"The only information in regards of its location is ""At the harbor of Sophia""; but no more sources can be found"
+Orchard,Chrasis - Orchard,,infrastructure,Senatus,orchard,,1,,,,
+Statue of Anastasios in the Antikantharos,Alexandria - Anastasius Statue in Antikantharos,Constantinople - Statue of Anastasius,infrastructure,Populus,monument,within Antikantharos,1,41.009537,28.961749,"https://www.google.com/maps/dir/Theodosius+Forumu/Balabana%C4%9Fa,+Forum+of+Theodosius,+Ordu+Cd.,+34134+Fatih%2F%C4%B0stanbul,+Turkey/@41.009541,28.9595603,17z/data=!4m14!4m13!1m5!1m1!1s0x14cab971f0edc9a1:0x1ecad85ea5f14767!2m2!1d28.9617387!2d41.0095451!1m5!1m1!1s0x14cab971f0edc9a1:0x1ecad85ea5f14767!2m2!1d28.9617387!2d41.0095451!3e1",
+Arkadios (by the arch of the Tauros),Constantinople - Arkadios (by the arch of the Tauros),Constantinople - Statue of Arkadios,infrastructure,Populus,monument,,1,,,,"the two Arkadios items should be collapsed, they are the same"
+Arkadios (in the Xerolophos),Constantinople - Arkadios (in the Xerolophos),Constantinople - Statue of Arkadios,infrastructure,Populus,monument,,1,41.0078,28.9431,,
+Constantinople - Atalos,Constantinople - Atalos,,infrastructure,Populus,monument,,1,40.993077,28.92263,,"this should be combined with ""Constantinople - Atalos Gate"""
+Justinian I,Constantinople - Justinian I,,infrastructure,Populus,monument,,1,,,https://en.wikipedia.org/wiki/Augustaion#/media/File:Constantinople_imperial_district.png,
+Statue of Anastasios on Column of the Tauros,Constantinople - Statue of Anastasios on Column of the Tauros,,infrastructure,Populus,monument,,1,,,"https://www.google.com/maps/place/Beyazit+Square/@41.0104983,28.9631985,18z/data=!4m5!3m4!1s0x14cab98f4fbf9113:0x721bc44b10ee1a71!8m2!3d41.010462!4d28.9638957","""in the area"" of modern bayezit sqare "
+Statue of Dionysus,Emesa - Statue of Dionysus,,infrastructure,Populus,monument,,1,34.7293,36.72,https://en.wikipedia.org/wiki/Saint_Mary_Church_of_the_Holy_Belt,"this is within the great church of Emesa, according to ODLA (https://books.google.com/books?id=A09WDwAAQBAJ&pg=PA534&lpg=PA534&dq=dionysus+emesa&source=bl&ots=8voBwLaKfu&sig=ACfU3U3Au2-15U6Yr6hFobQM-2Abog7dwQ&hl=en&ppis=_e&sa=X&ved=2ahUKEwiL6v6i4rvnAhURVt8KHc3gAksQ6AEwBHoECAgQAQ#v=onepage&q=dionysus%20emesa&f=false) It seems likely to me that this is the church mentioned, given context clues, but I would like confirmation "
+Triplyon,Antioch (Syria) - Triplyon,,infrastructure,Populus,monument,,1,,,,"as Theophane mentioned, this is a place outside the citygate. I know it was formed by a triple arc. However, no indications of this location can be found elsewhere (also see G Downey p. 621 and ""Arc de Triomphe de Theveste"" by Antoine Jean Letronne)"
+Abramiaion,Constantinople - Abramiaion,,infrastructure,Ecclesia,monastery,,1,,,,this appears to in fact be within the Hagia Sofia
+"Chora, monastery of",Constantinople - Chora,,infrastructure,Ecclesia,monastery,,1,41.0312,28.9392,,
+"Hormisdas, monastery of",Constantinople - Hormisdas,,infrastructure,Ecclesia,monastery,,1,41.0027,28.9722,https://latitude.to/articles-by-country/tr/turkey/18164/little-hagia-sophia,
+"Konon, Monastery of",Constantinople - Konon,,infrastructure,Ecclesia,monastery,,1,35.3849,33.8991,https://en.wikipedia.org/wiki/Kantara_monastery,
+"Maximinus, monastery of",Constantinople - Maximinus,Constantinople - Monastery of Maximinus,infrastructure,Ecclesia,monastery,,1,,,,
+Monastery of the Cave,Emesa - Monastery of the Cave,,infrastructure,Ecclesia,monastery,,1,,,,
+Monastery of the Mother of God,Chrysopolis - Monastery of the Mother of God,,infrastructure,Ecclesia,monastery,,1,,,,
+"New Repentance, monastery of",Constantinople - New Repentance,,infrastructure,Ecclesia,monastery,,1,,,,
+St. Diomedes (?),Constantinople - St. Diomedes,,infrastructure,Ecclesia,monastery,,1,40.996046,28.925177,,
+"St. Sabas, monastery",Rome - St. Sabas,,infrastructure,Ecclesia,monastery,,1,41.5243,12.2908,"https://en.wikipedia.org/wiki/San_Saba,_Rome",
+"St. Tarasios, monastery of",Constantinople - St. Tarasios,Constantinople - Monastery of St. Tarasios,infrastructure,Ecclesia,monastery,,1,,,,"founded by Tarasios, ""on the European shore of the Bosporus"", outside Constantinople (https://books.google.com/books?id=vGE8Xq832A0C&pg=PA490&lpg=PA490&dq=monastery+of+st+Tarasios&source=bl&ots=DZPIM1mmlZ&sig=ACfU3U3xMWlqInlFxscwslmBkD9ys9wUtw&hl=en&ppis=_e&sa=X&ved=2ahUKEwiiy4rN18nnAhUQVN8KHZiMA1o4ChDoATAPegQIChAB#v=onepage&q=monastery%20of%20st%20Tarasios&f=false)"
+"Ta Hebraika, monastery of",Constantinople - Ta Hebraika,,infrastructure,Ecclesia,monastery,,1,,,,"was originally a house/estate, converted to a monastery -- Mango says in the footnotes ""situation unknown"" (6305)"
+The Monastery near the Sea,Carthage - The Monastery near the Sea,Monestary of Mandracium,infrastructure,Ecclesia,monastery,,1,10.3228,36.8525,Procopius; https://www.jstor.org/stable/pdf/124587.pdf?ab_segments=0%252Fbasic_SYC-5055%252Fcontrol&refreqid=excelsior%3Ac908bf73c6809bcefe2505144cf74716,housed soldier monks
+Kanopos (or Metanoia),Kanopos (or Metanoia),,infrastructure,Ecclesia,monastery,,1,31.3,30.0833,,
+Bronze House of the Great Palace,Constantinople - Bronze House  in Great Palace,,infrastructure,Senatus,house,within Great Palace,1,,,,
+House of Leo,Constantinople - House of Leo,,infrastructure,Senatus,house,,1,,,,"could this be mistakenly tagged, as 'House of Leo' can refer to the dynasty? "
+House of Pardos,Constantinople - House of Pardos,,infrastructure,Senatus,house,,1,,,,
+House of Phillipikos,Constantinople - House of  Phillippikos,,infrastructure,Senatus,house,,1,,,,
+Hospice of Eubolos,Antioch (Syria) - Hospice of Eubolos,,infrastructure,Ecclesia,hospice,,1,,,,
+Martyrium,Jerusalem - Martyrium,,infrastructure,Ecclesia,shrine,,1,31.778499,35.229534,,should also be combined with the church of the holy speulchre (see the western dome)
+The Mount of Olives in Sykai,Constantinople - The Mount of Olives in Sykai,,infrastructure,Topography,hill,,1,,,,
+Caesarius (Proclinesian),Constantinople - Caesarius (Proclinesian Harbor),,infrastructure,Hydrology,harbour,,1,41.004667,28.952222,https://tools.wmflabs.org/geohack/geohack.php?pagename=Harbour_of_Eleutherios&params=41_0_16.8_N_28_57_8_E_,Harbour of Eleutherios
+Harbor,Constantinople - Harbor in Hebdomon Palace,,infrastructure,Hydrology,harbour,,1,,,,
+Seleukeia ad Belum (Syria) - The Harbor,Seleukeia ad Belum (Syria) - The Harbor,,infrastructure,Hydrology,harbour,,1,,,,
+Thomites Hall (Bishop's Palace),Constantinople - Thomites Hall in Patriarchal Palace,,infrastructure,Imperium,hall,within Patriarchal Palace,1,,,,
+Octagon,Constantinople - Octagon,,infrastructure,Imperium,hall,within Great Palace,1,,,,
+Triconch,Constantinople - Triconch in Great Palace,,infrastructure,Imperium,hall,within Great Palace,1,,,,
+Castle of the Theodosiani,Constantinople - Castle of the Theodosiani in Hebdomon Palace,,infrastructure,Defense,guardhouse,within Hebdomon Palace,1,,,,
+Kyklobion Castle (Round Castle),Constantinople - Kyklobion Castle (Round Castle) in Hebdomon Palace,,infrastructure,Defense,guardhouse,within Hebdomon Palace,1,,,,
+Scholai,Constantinople - Scholai in Great Palace,,infrastructure,Defense,guardhouse,within Great Palace,1,,,,
+Harma,Constantinople - Harma,,infrastructure,Defense,guardhouse,,1,,,,
+Constantinople - Atalos Gate,Constantinople - Atalos Gate,,infrastructure,Defense,gate,,1,40.993077,28.92263,," ""Constantinople - Atalos"" should be combined into this entry; This is in fact the ""Golden Gate"""
+Constantinople - Blachernai Gate,Constantinople - Blachernai Gate,,infrastructure,Defense,gate,,1,,,,
+City Gates,Ravenna - City Gates,,infrastructure,Defense,gate,,1,44.414645,12.193346,https://www-jstor-org.ezproxy.wesleyan.edu/stable/40310887?seq=6#metadata_info_tab_contents,
+Perama,Constantinople - Perama,,infrastructure,Defense,gate,,1,41.016667,28.968889,https://www-jstor-org.ezproxy.wesleyan.edu/stable/1291840?Search=yes&resultItemClick=true&searchText=magdalino&searchText=maritime&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dmagdalino%2Bmaritime%26amp%3Bfilter%3D&ab_segments=0%2Fbasic_SYC-5152%2Fcontrol&refreqid=search%3A53b87ea40c4d370f430a269d08eb2eba&seq=1#metadata_info_tab_contents,
+Tetrapylon,Constantinople - Tetrapylon,,infrastructure,Defense,gate,,1,41.008675,28.96698,,
+The Gate to Rome,Constantinople - Gate to Rome,,infrastructure,Defense,gate,,1,41.022719,28.926154,,
+Coppermarket,Constantinople - Coppermarket,,infrastructure,Populus,forum,,1,,,,"according to this link, this should be a district (and thus a shape file) https://books.google.com/books?id=Y3LKDwAAQBAJ&pg=PT236&lpg=PT236&dq=copper+market+constantinople&source=bl&ots=x-EYNQwaYL&sig=ACfU3U0qDs7mT5GQ55HJVqVbiq0j7lpShA&hl=en&ppis=_e&sa=X&ved=2ahUKEwiJp_DakbvnAhUMTN8KHeHiBP4Q6AEwBXoECAoQAQ#v=onepage&q=copper%20market%20constantinople&f=false"
+"Forum, arch of the","Constantinople - Forum, arch of the",,infrastructure,Populus,forum,,1,41.008179,28.971669,,"This is the approximate location; according to Theophanes, the arch that was burned was close to the Praetorium, which is near the Forum of Constantine"
+The Market,Carthage - The Market,,infrastructure,Populus,forum,,1,36.7971,10.1698,"https://www.google.com/maps/place/Souk+el+Bey/@36.797581,10.169707,15z/data=!4m5!3m4!1s0x0:0xea5170b4c61797e4!8m2!3d36.797581!4d10.169707","Modern archeologists on the site have not yet 'discovered' the ancient agora. Lancel, Carthage (Paris 1992; Oxford 1997) at 141."
+Campus Tribunalis,Rome - Campus Tribunalis,,infrastructure,Topography,field,,1,,,,The Campus Tribunalis seems to be the Constantinople version of Rome's Campus Martius. Needs to be looked into. 
+Imperium Possessions,Carthage - Imperium Possessions,,infrastructure,Topography,field,,1,,,,
+Estate of Caesarius,Constantinople - Estate of Caesarius,,infrastructure,Senatus,estate,,1,,,,
+Estate of Hypatios and Pompeius,Constantinople - Estate of Hypatios and Pompeius,,infrastructure,Senatus,estate,,1,,,,
+Suburban Estate,Carthage - Suburban Estate,,infrastructure,Senatus,estate,,1,,,"Goodman, Penelope. The Roman City and Its Periphery: From Rome to Gaul. Routledge, 2006.",Roman suburbs were present and prolific for elite Romans in late antiquity and the Early Medieval Period
+Acropolis,Constantinople - Acropolis,,infrastructure,Topography,district,,1,41.010677,28.98185,,"This is the approximte location; according to Paolo A. Belzoni, the Acropolis is close to the north-east corner of Hagia Irene"
+Amantius,Constantinople - Amantius,,infrastructure,Topography,district,,1,,,,
+Anthemios (a suburb),Constantinople - Anthemios ,,infrastructure,Topography,district,,1,,,,
+Areobindos,Constantinople - Areobindos,,infrastructure,Topography,district,,1,,,,
+Aurelianai,Constantinople - Aurelianai,,infrastructure,Topography,district,,1,,,,
+"Blachernai, palace of",Constantinople - Palace of Blachernai,,infrastructure,Topography,district,,1,41.0339,28.9403,https://en.wikipedia.org/wiki/Palace_of_Blachernae,
+Constantinople - Dagistheos,Constantinople - Dagistheos,,infrastructure,Topography,district,,1,,,,
+Darios,Constantinople - Darios,,infrastructure,Topography,district,,1,,,,
+Diakonissa,Constantinople - Diakonissa,,infrastructure,Topography,district,,1,,,,
+District of John,Alexandria - District of John,,infrastructure,Topography,district,,1,,,,
+District of the Iobitai,Antioch (Syria) - District of the Iobitai,,infrastructure,Topography,district,,1,,,,
+Eleusia,Constantinople - Eleusia,,infrastructure,Topography,district,,1,,,,
+Eutropios (a suburb),Constantinople - Eutropios,,infrastructure,Topography,district,,1,,,,
+"Hiereia, Suburb",Chalcedon - Suburb of Hiereia,,infrastructure,Topography,district,,1,,,,
+"St. Stephen, church",Jerusalem - St. Stephen,,infrastructure,Ecclesia,church,,1,31.784999,35.229989,,
+Kallinike,Constantinople - Kallinike,,infrastructure,Topography,district,,1,,,,
+Karpianos,Constantinople - Karpianos,,infrastructure,Topography,district,,1,,,,
+Kyros,Constantinople - Kyros,,infrastructure,Topography,district,,1,,,,
+Mangana,Constantinople - Mangana,,infrastructure,Topography,district,,1,,,,
+Mauros,Constantinople - Mauros,,infrastructure,Topography,district,,1,,,,
+Omphakera,Constantinople - Omphakera,,infrastructure,Topography,district,,1,,,,
+Pittakia,Constantinople - Pittakia,,infrastructure,Topography,district,,1,,,,
+Platanion,Constantinople - Platanion,,infrastructure,Topography,district,,1,,,,
+Platanoi/Platanon (suburb),Antioch (Syria) - Platanoi/Platanon,,infrastructure,Topography,district,,1,,,,
+Probus,Constantinople - Probus,,infrastructure,Topography,district,,1,,,,
+Rufus,Constantinople - Rufus,,infrastructure,Topography,district,,1,,,,
+Shoemaker's Quarter,Constantinople - Shoemaker's Quarter,,infrastructure,Topography,district,,1,,,,
+Silversmiths' Quarter,Constantinople - Silversmiths' Quarter,,infrastructure,Topography,district,,1,,,,
+Stoicheion,Alexandria - Stoicheion,,infrastructure,Topography,district,,1,,,,
+Constantinople - Secretum in Patriarchal Palace,Constantinople - Secretum in Patriarchal Palace,,infrastructure,Imperium,court,within Patriarchal Palace,1,,,,
+Quaestorium,Constantinople - Quaestorium,,infrastructure,Imperium,court,within Great Palace,1,,,,
+The Courts,Constantinople - The Courts in Great Palace,,infrastructure,Imperium,court,within Great Palace,1,,,,
+Garsonostasion,Constantinople - Garsonostasion,,infrastructure,Imperium,court,within Great Church,1,,,,
+The Cistern of the Basilica,Constantinople - The Cistern of the Basilica,,infrastructure,Hydrology,cistern,,1,41.029,28.584,https://en.wikipedia.org/wiki/Basilica_Cistern,
+St. John the Baptist Church,Constantinople - St. John the Baptist Church in Hebdomon Palace,,infrastructure,Ecclesia,church,within Hebdomon Palace,1,,,,
+Church of Bassa,Chalcedon - Church of Bassa,,infrastructure,Ecclesia,church,,1,,,,
+Church of St. Peter,Tarsos/Tarsus - Church of St. Peter,,infrastructure,Ecclesia,church,,1,36.9143,34.8978,"https://www.google.com/maps/place/Saint+Paul's+Church,+Tarsus/@36.9141026,34.8955939,17z/data=!3m1!4b1!4m5!3m4!1s0x1527de65dbcdbbd1:0x90140eca7b6169a7!8m2!3d36.9141026!4d34.8977826",
+Church of the Holy Apostle Peter,Rome - Church of the Holy Apostle Peter,,infrastructure,Ecclesia,church,,1,,,,"this is the same as the church of st peter (rome), they should be collapsed NK 1/24/20"
+Churches of Heretics,Constantinople - Churches of Heretics,,infrastructure,Ecclesia,church,,1,,,,
+Churches of the Heretics,Bosphoros (Crimea) - Churches of the Heretics,,infrastructure,Ecclesia,church,,1,,,,
+"Edessa, Church of",Edessa - Church of Edessa,,infrastructure,Ecclesia,church,,1,37.1506,38.7933,"https://www.google.com/maps/place/Reji+Kilisesi/@37.1501183,38.793687,16.15z/data=!4m5!3m4!1s0x0:0x4169b83099e221f1!8m2!3d37.150298!4d38.79328",
+"Forty Saints,  church of the",Constantinople - Forty Saints,,infrastructure,Ecclesia,church,,1,41.008438,28.966553,,
+Constantinople - Great Church of Blachernai,Constantinople - Great Church of Blachernai,,infrastructure,Ecclesia,church,,1,41.0383,28.9425,https://tools.wmflabs.org/geohack/geohack.php?pagename=Church_of_St._Mary_of_Blachernae_(Istanbul)&params=41.0383_N_28.9425_E_type:landmark_region:TR,
+Statue of Aphrodite,Jerusalem - Statue of Aphrodite,,infrastructure,Populus,monument,within the Great Bathhouse of Beth Shean,1,,,,
+"Honoratoi, church of the",Constantinople - Honoratoi,,infrastructure,Ecclesia,church,,1,,,,
+"Laurentius, church of the Holy Martyr","Constantinople - Laurentius, church of the Holy Martyr",,infrastructure,Ecclesia,church,,1,41.0249,28.956366,,
+Mega Ekklesia,Constantinople - Mega Ekklesia,,infrastructure,Ecclesia,church,,1,,,,This is the same as the Great Church and the two should be collapsed
+"Our Lady of the Pharos, church of",Constantinople - Our Lady of the Pharos,,infrastructure,Ecclesia,church,,1,41.0021,28.58.38,https://en.wikipedia.org/wiki/Church_of_the_Virgin_of_the_Pharos,
+Papal Cathedral,Alexandria - Papal Cathedral,,infrastructure,Ecclesia,church,,1,30.0912,31.2762,"https://www.google.com/maps/place/St.+Mark's+Coptic+Orthodox+Cathedral/@30.2858624,30.7186459,9z/data=!4m8!1m2!2m1!1sEgypt+Saint+Mark's+Coptic+Orthodox+Cathedral+!3m4!1s0x14583f9adf8a3ec9:0x56c16c299e2af96c!8m2!3d30.0722775!4d31.2755656",
+"Peter and Paul in the Orphanage, church of",Constantinople - Peter and Paul in the Orphanage,,infrastructure,Ecclesia,church,,1,,,,
+"Peter and Paul in the Triconch, church of",Constantinople - Peter and Paul in the Triconch,,infrastructure,Ecclesia,church,,1,,,,
+"St. John the Evangelist, church",Ephesos - St. John the Evangelist,,infrastructure,Ecclesia,church,,1,37.9539,27.3677,"https://www.google.com/maps/place/Basilica+Of+Saint+John/@37.9528691,27.3675619,15z/data=!4m5!3m4!1s0x0:0x11056fac46c6f02c!8m2!3d37.9528691!4d27.3675619",
+"St. John, Church",Alexandria - St. John,,infrastructure,Ecclesia,church,,1,,,,
+"St. John, Sanctuary",Alexandria - St. John Sanctuary ,,infrastructure,Ecclesia,church,,1,,,,
+"St. Kallinikos, Church",Rhegion (Thrace) - St. Kallinikos,,infrastructure,Ecclesia,church,,1,,,,
+"St. Kyriakos, church of",Constantinople - St. Kyriakos,,infrastructure,Ecclesia,church,,1,,,,
+"St. Mark, Church",Alexandria - St. Mark,,infrastructure,Ecclesia,church,,1,31.1983,29.8994,https://en.wikipedia.org/wiki/Saint_Mark%27s_Coptic_Orthodox_Cathedral_(Alexandria),
+"St. Michael, Archangel, church of","Constantinople - St. Michael, Archangel",,infrastructure,Ecclesia,church,,1,41.06,29.03,https://en.wikipedia.org/wiki/%C4%B0stinye,Also known as the Michaelion
+"St. Mokios, church of",Constantinople - St. Mokios,,infrastructure,Ecclesia,church,,1,41.0101,28.9347,,
+"St. Plato, monastery / church of",Constantinople - St. Plato,,infrastructure,Ecclesia,church,,1,40.5946,28.5543,https://en.wikipedia.org/wiki/Monastery_of_Stoudios,"This might actually be the Studios monastery, of which St. Plato was igumen around 797. I've used the coordinates for that location. "
+"St. Samuel, church of",Constantinople - St. Samuel,,infrastructure,Ecclesia,church,,1,,,,"Most likely the Nea Ekklesia, located at the southern end of the Great Palace; perhaps these locations should be collapsed"
+"St. Sophia, church",Nicaea - St. Sophia,,infrastructure,Ecclesia,church,,1,40.4281,29.7204,,
+"St. Thekla, church",Seleukeia ad Belum (Syria) - St. Thekla,,infrastructure,Ecclesia,church,,1,33.8484,36.5467,,
+"St. Theodore of Sphorakios,  church of",Constantinople - St. Theodore of Sphorakios,,infrastructure,Ecclesia,church,,1,41.016444,28.959881,,
+"St. Theodore, Church",Euchaita - St. Theodore,,infrastructure,Ecclesia,church,,,,,,
+"St. Theonas, Church",Alexandria - St. Theonas,,infrastructure,Ecclesia,church,,1,31.18894,29.884318,https://books.google.com/books?id=c2NdJo7uLZoC&pg=PA209&lpg=PA209&dq=Alexandria+St.+Theonas+church&source=bl&ots=y_ZbsAAQZe&sig=ACfU3U3EQXlJsbeHpeUH953ZC0xL8E647w&hl=en&sa=X&ved=2ahUKEwim--i55fDnAhW-hHIEHZyfAaU4FBDoATABegQICxAB#v=onepage&q=Alexandria%20St.%20Theonas%20church&f=false ; see also https://www.bibalex.org/alexmed/Projects/Details.aspx?ID=40721d2e-ffc3-4270-933e-63af57067560,"Also known as the Church of Saint Athanasius, which was later replaced by the Mosque of One Thousand Columns. Today the building on this site is called the Church of Santa Rita."
+"St. Thomas, church of",Constantinople - St. Thomas,,infrastructure,Ecclesia,church,,1,,,,
+"St. Vincent, church of",Constantinople - St. Vincent,,infrastructure,Ecclesia,church,,1,,,,
+"Stephen of Aureliani, church of",Constantinople - Stephen of Aureliani,,infrastructure,Ecclesia,church,,1,,,,
+The Cathedral Church,Emesa - The Cathedral Church,,infrastructure,Ecclesia,church,,1,,,,
+Caesarea (Cappadocia) - The Church,Caesarea (Cappadocia) - The Church,,infrastructure,Ecclesia,church,,1,,,,
+Caesarea Phillipi / Paneas - The Church,Caesarea Phillipi / Paneas - The Church,,infrastructure,Ecclesia,church,,1,,,,
+Neocaesarea (Pontos) - The Church,Neocaesarea (Pontos) - The Church,,infrastructure,Ecclesia,church,,1,,,,
+The Old Church,Emesa - The Old Church,,infrastructure,Ecclesia,church,,1,,,,
+Carthage - The Palace Church,Carthage - The Palace Church,,infrastructure,Ecclesia,church,,1,36.8539,10.3234,"https://www.google.com/maps/place/Acropolium+of+Carthage/@36.8536893,10.3233906,15z/data=!4m5!3m4!1s0x0:0xd9c0633efe7a1fa9!8m2!3d36.8536893!4d10.3233906",
+The Round Church (St. Mary),Antioch (Syria) - The Round Church (St. Mary),,infrastructure,Ecclesia,church,,1,,,,
+"Theotokos (Honoratoi), church of",Constantinople - Theotokos (Honoratoi),,infrastructure,Ecclesia,church,,1,,,,
+"Theotokos (Quarter of Areobindos), church of",Constantinople - Theotokos (Quarter of Areobindos),,infrastructure,Ecclesia,church,,1,,,,
+"Theotokos (Quarter of Diakonissa), church of",Constantinople - Theotokos (Quarter of Diakonissa),,infrastructure,Ecclesia,church,,1,,,,
+"Theotokos (Quarter of Kyros), church of",Constantinople - Theotokos (Quarter of Kyros),,infrastructure,Ecclesia,church,,1,,,,
+"Theotokos in the Coppermarket (Chalkoprateia), church of",Constantinople - Theotokos in the Coppermarket (Chalkoprateia),,infrastructure,Ecclesia,church,,1,,,,
+"Theotokos of Petalas, chruch of",Constantinople - Theotokos of Petalas,,infrastructure,Ecclesia,church,,1,,,,
+"Ton Metropolitou (Petrion), church of",Constantinople - Ton Metropolitou (Petrion),,infrastructure,Ecclesia,church,,1,,,,
+"Virgin, church of",Constantinople - Virgin,,infrastructure,Ecclesia,church,,1,41.0383,28.9425,https://en.wikipedia.org/wiki/Church_of_St._Mary_of_Blachernae_(Istanbul),"is this Church of St. Mary of Blachernae? If so, this is the coordinate"
+Anaplous - Church of Archangel,Anaplous - Church of Archangel,,infrastructure,Ecclesia,church,,1,,,,
+Constantinople - Hagia Sophia Ambo,Constantinople - Hagia Sophia Ambo,,infrastructure,Ecclesia,church,within Hagia Sophia,1,,,,
+Tomb of Eudokia,Jerusalem - Tomb of Eudokia,,infrastructure,Ecclesia,tomb,,1,31.785,35.23,"https://en.wikipedia.org/wiki/St._Stephen%27s_Basilica,_Jerusalem","Within Church of St. Stephens, now St. Stephens Basilica; changed sub 1 to Ecclesia"
+The Dug River/Canal,Alexandria - Dug River/Canal,,infrastructure,Hydrology,canal,,1,31.176419,29.897298,,
+Tetrastoon,Alexandria - Tetrastoon,,infrastructure,Populus,building,,1,,,,
+Milvian Bridge,Rome - Milvian Bridge,,infrastructure,Hydrology,bridge,,1,41.5608,12.2801,https://en.wikipedia.org/wiki/Ponte_Milvio,
+Alexander Baths,Constantinople - Alexander Baths,,infrastructure,Populus,baths,,1,,,,
+Constantinople - Anastasios Baths,Constantinople - Anastasios Baths,,infrastructure,Populus,baths,,1,,,,
+Antikatharos,Alexandria - Antikatharos,,infrastructure,Populus,baths,,1,,,,
+Baths of Diocletian,Alexandria - Diocletian Baths,,infrastructure,Populus,baths,,1,41.903,12.498,,
+Baths of Heptabizos,Alexandria - Heptabizos Baths ,,infrastructure,Populus,baths,,1,,,,
+Baths of Trajan,Alexandria - Trajan Baths,,infrastructure,Populus,baths,,1,,,,
+Constantinople - Dagistheos Baths,Constantinople - Dagistheos Baths,,infrastructure,Populus,baths,,1,,,,
+"Daphne, Baths",Syracuse - Daphne Baths,,infrastructure,Populus,baths,,1,,,,
+Font of Barlaam,Antioch (Syria) - Font of Barlaam,,infrastructure,Populus,baths,,1,,,,
+Healing Bath,Alexandria - Healing Bath,,infrastructure,Populus,baths,,1,31.1819,29.895966,"Only mentioend in p. 179 of 
+Chronographia; Judith McKenzie proposed that it may be one of the two cisterns to the north of the Lageion, see p. 250, The Architecture of Alexandria and Egypt 300 BC - 700 BC",Note that these are the estimated coordinates
+Health Bath,Alexandria - Health Bath,,infrastructure,Populus,baths,,1,31.1819,29.895966,same as above,
+Hot Springs,Pythia - Hot Springs,,infrastructure,Populus,baths,,1,,,,
+Kantharos Bath,Alexandria - Kantharos Bath,,infrastructure,Populus,baths,,1,,,"Only mentioned as ""In this year the Kantharos, which is a bath in Alexandria, was completed"" in one primary source and detailed information cannot be found at all. See p.249 in Mango, Scott, Greatrex, Mango, Cyril A, Scott, Roger, and Greatrex, Geoffrey. The Chronicle of Theophanes Confessor : Byzantine and Near Eastern History, AD 284-813. Oxford : New York: Clarendon Press ; Oxford University Press, 1997.
+",
+Koreion Bath,Alexandria - Koreion Bath,,infrastructure,Populus,baths,,1,,,,
+Constantinople - Tauros Baths,Constantinople - Tauros Baths,,infrastructure,Populus,baths,,1,,,,
+The Great Pool,Alexandria - Great Pool,,infrastructure,Populus,baths,,1,,,,
+Great Basilica at the Stoicheion,Alexandria - Great Basilica at Stoicheon,,infrastructure,Ecclesia,basilica,at Stoicheion,1,,,,
+The Basilica,Nicomedia - The Basilica,,infrastructure,Ecclesia,basilica,,1,,,,
+The Old Basilica,Antioch (Syria) - The Old Basilica,,infrastructure,Ecclesia,basilica,,1,,,,
+"Anagyroi of Paulina, Kosmas, Damian","Constantinople - Paulina, Kosmas, Damian",,infrastructure,Ecclesia,monastery,,1,,,,
+Constantinople - Antiochos Palace,Constantinople - Antiochos Palace,,infrastructure,Imperium,,,1,41.0074,28.9751,https://en.wikipedia.org/wiki/Palace_of_Antiochos,
+"Belisarius, Palace of",Constantinople - Belisarius Palace,,infrastructure,Imperium,,,1,,,,"This may not be a palace, but instead a tower within the Palace of Boukoleon"
+"Deuteron, palace of",Constantinople - Deuteron,,infrastructure,Imperium,,,1,,,,
+Flacillianai,Constantinople - Flacillianai,,infrastructure,Imperium,,,1,,,,
+Constantinople - Helenianai Palace,Constantinople - Helenianai Palace,,infrastructure,Imperium,,,1,,,,
+"Hiereia, palace of",Constantinople - Hiereia,,infrastructure,Imperium,,,1,40.581,29.0202,https://en.wikipedia.org/wiki/Hieria,
+"Hormisdas, palace of",Constantinople - Hormisdas,,infrastructure,Imperium,,,1,41.0031,28.9753,https://tools.wmflabs.org/geohack/geohack.php?pagename=Boukoleon_Palace&params=41_00_11_N_28_58_31_E_region:TR_type:landmark,This palace was later named Boukoleon after the end of the 6th century by Justinian I; maybe this should be renamed? 
+Icundianae Palace,Rhegion (Thrace) - Iucundianae Palace,,infrastructure,Imperium,,,1,,,,
+"Lausos, palace of",Constantinople - Lausos,,infrastructure,Imperium,,,1,41.008,28.975,https://www.thebyzantinelegacy.com/palaces,
+"Marina, palace of",Constantinople - Marina,,infrastructure,Imperium,,,1,,,,"Cyril Mango: The Palace of Marina, the Poet Palladas and the Bath of Leo VI. In: E. Kypraiou (Hrsg.), Eufrosynon: Afieroma ston Manoli Hatzidaki (Athens 1991), pp. 321–330"
+Palace,Chrasis - Palace,,infrastructure,Imperium,,,1,,,,
+"Placidia, palace of",Constantinople - Placidia,,infrastructure,Imperium,,,1,,,,"The palace was built by Galla Placidia, near the ta Armatiou quarter in the tenth district of the city between the Gate of the Plataea and the Monastery of the Pantokrator.[1]"
+Antioch (Syria) - Praetorium of Magister Militum,Antioch (Syria) - Praetorium of Magister Militum,,infrastructure,Imperium,,,1,,,,
+"Sophiai, palace of",Constantinople - Sophiai,,infrastructure,Imperium,,,1,,,,
+The Bishop's Palace,Neocaesarea (Pontos) - The Bishop's Palace,,infrastructure,Imperium,,,1,,,,
+the Blanchernai,Constantinople - Blanchernai Palace,,infrastructure,Imperium,,,1,41.038324,28.942639,"https://www.google.com/maps/place/41%C2%B002'18.0%22N+28%C2%B056'33.5%22E/@41.038324,28.9415058,18z/data=!3m1!4b1!4m13!1m6!4m5!1m0!1m3!2m2!1d28.942627!2d41.038315!3m5!1s0x0:0x0!7e2!8m2!3d41.0383244!4d28.9426389",https://www.google.com/maps/d/viewer?mid=1aMswOgkKooHAga21Rmz7OW9y6vP8Mah5&ll=41.03841625314753%2C28.943606823822392&z=16
+"Therapeia, palace of",Constantinople - Therapeia,,infrastructure,Imperium,,,1,41.133333,29.05,https://tools.wmflabs.org/geohack/geohack.php?pagename=Tarabya&params=41_08_N_29_03_E_region:TR_type:city_source:GNS-enwiki,suburb of Constantinople
+Tetrakiones,Constantinople - Hippodrome Stands,,infrastructure,Populus,stands,within Hippodrome,1,,,,
+"Theotokos at Blachernai, church of",Constantinople - Theotokos Chapel at Blachernai,,infrastructure,Ecclesia,church,,2,41.0383,28.9425,https://tools.wmflabs.org/geohack/geohack.php?pagename=Church_of_St._Mary_of_Blachernae_(Istanbul)&params=41.0383_N_28.9425_E_type:landmark_region:TR,
+Inner Walls (Walls of Constantine),Constantinople - Inner Walls (Walls of Constantine),,infrastructure,Defense,walls,,2,,,,
+Constantinople - Kynegion,Constantinople - Kynegion,,infrastructure,Defense,walls,,2,41.034705,28.946087,https://en.wikipedia.org/wiki/Walls_of_Constantinople,This is the approximate location; the Kynegion is a place for public execution and is located in a small area behind the Kynegos Gate
+Carthage - The Walls,Carthage - The Walls,,infrastructure,Defense,walls,,2,36.7,10.4,https://www.jstor.org/stable/j.ctt5vkw38.21?Search=yes&resultItemClick=true&searchText=carthage&searchText=walls&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dcarthage%2Bwalls&ab_segments=0%2Fbasic_SYC-5144%2Fcontrol&refreqid=search%3Ac6fb83b3805a621a31701c5f1287d9a1&seq=1#metadata_info_tab_contents,Appears to be same walls as ancient Carthage
+Chalcedon - The Walls,Chalcedon - The Walls,,infrastructure,Defense,walls,,2,,,,
+Imperium Mausoleum,Constantinople - Imperium Mausoleum,,infrastructure,Imperium,tomb,,2,,,,
+Constantinople - Jerusalem,Constantinople - Jerusalem,,infrastructure,Topography,district,,2,,,,
+Temple of Tyche,Mazaka (Caesarea) - Temple of Tyche,,infrastructure,Religious Non-Christian,temple,,2,,,,
+The Temple of Serapis,Alexandria - Temple of Serapis,,infrastructure,Religious Non-Christian,temple,,2,31.182345,29.89629,"https://www.google.com/maps/place/Serapeum+and+Pompey's+Pillar/@31.182345,29.8957428,19z/data=!4m5!3m4!1s0x14f5c3c5a2084c55:0xba01b18741829299!8m2!3d31.1823466!4d29.8962872","See Pompey's Pillar, the only complete physical remain of the temple"
+"Kochlias, staircase of the Great Palace","Constantinople - Kochlias, staircase in Great Palace",,infrastructure,Imperium,staircase,within Great Palace,2,,,,
+Constantinople - Hagia Sophia Sanctuary,Constantinople - Hagia Sophia Sanctuary,,infrastructure,Ecclesia,shrine,within Hagia Sophia,2,,,,
+Sphendone,Constantinople - Sphendone in Hippodrome,,infrastructure,Populus,racetrack,within Hippodrome,2,,,,
+Stama,Constantinople - Stama in Hippodrome,,infrastructure,Populus,racetrack,within Hippodrome,2,,,,
+Kyklobion Promontory,Constantinople - Kyklobion Promontory in Hebdomon Palace,,infrastructure,Topography,promontory,,2,,,,
+Milion,Constantinople - Milion,,infrastructure,Populus,monument,,2,41.008042,28.978067,https://tools.wmflabs.org/geohack/geohack.php?pagename=Milion&params=41_00_28.95_N_28_58_41.04_E_type:landmark_scale:10000_source:frwiki,
+Theodosios I,Constantinople - Theodosios I,Constantinople - Statue of Theodosios I,infrastructure,Populus,monument,,2,41.009537,28.961749,"https://www.google.com/maps/dir/Theodosius+Forumu/Balabana%C4%9Fa,+Forum+of+Theodosius,+Ordu+Cd.,+34134+Fatih%2F%C4%B0stanbul,+Turkey/@41.009541,28.9595603,17z/data=!4m14!4m13!1m5!1m1!1s0x14cab971f0edc9a1:0x1ecad85ea5f14767!2m2!1d28.9617387!2d41.0095451!1m5!1m1!1s0x14cab971f0edc9a1:0x1ecad85ea5f14767!2m2!1d28.9617387!2d41.0095451!3e1",
+"Florus, monastery of",Constantinople - Florus,,infrastructure,Ecclesia,monastery,,2,,,,
+Monastery of Matrona,Constantinople - Monastery of Matrona,,infrastructure,Ecclesia,monastery,,2,,,,
+Monastery of Paul the Leper,Alexandria - Monastery Paul Leper,,infrastructure,Ecclesia,monastery,,2,,,,
+Hospice of Sampson,Constantinople - Hospice of Sampson,,infrastructure,Ecclesia,hospice,,2,,,,"The Hospital of Sampson formed a complex together with the Hagia Sophia, Hagia Eirene and some other subsidiary building, and it was served by the same clergy. https://www.byzantium1200.com/sampson.html"
+Julian (Sophia) Harbor,Constantinople - Julian (Sophia),,infrastructure,Hydrology,harbour,,2,41.003099,28.967187,"https://www.google.com/maps/place/41%C2%B000'11.2%22N+28%C2%B058'01.9%22E/@41.003088,28.9647565,16.89z/data=!4m14!1m7!3m6!1s0x14cab99a4a1d22b3:0xbb396fd3b268797d!2zS2FkxLFyZ2EgTGltYW7EsSBDZC4sIEZhdGloL8Swc3RhbmJ1bCwgVHVya2V5!3b1!8m2!3d41.0049851!4d28.968579!3m5!1s0x0:0x0!7e2!8m2!3d41.0030992!4d28.9671875",https://en.wikipedia.org/wiki/Kontoskalion (estimated)
+Justinian's Hall of the Great Palace,Constantinople - Justinian's Hall in Great Palace,,infrastructure,Imperium,hall,within Great Palace,2,,,,
+Triclinium of the Great Palace,Constantinople - Triclinium in Great Palace,,infrastructure,Imperium,hall,within Great Palace,2,,,,
+Adrianople (Charsian),Constantinople - Adrianople Gate (Charsian) ,,infrastructure,Defense,gate,,2,41.031358,28.935128,,
+Aqueduct which enters the city by the Adrianople (Charsian) Gate,Constantinople - Aqueduct at Adrianople (Charsian) Gate,,infrastructure,Defense,gate,,2,41.015944,28.955556,https://tools.wmflabs.org/geohack/geohack.php?pagename=Valens_Aqueduct&params=41_00_57.4_N_28_57_20_E_type:landmark,https://en.wikipedia.org/wiki/Valens_Aqueduct
+Bronze Gate,Constantinople - Bronze Gate in Great Palace,,infrastructure,Defense,gate,,2,,,,
+"Rhegion (Rhesion, Polyandriou)","Rhegion Gate (Rhesion, Polyandriou)",,infrastructure,Defense,gate,,2,41.014945,28.921894,,
+Taurian Gate,Antioch (Syria) - Taurian Gate,,infrastructure,Defense,gate,,2,,,,
+A Suburb,Tripolis (Africa) - Suburb,,infrastructure,Topography,district,,2,,,,
+"Daphne, suburb",Antioch (Syria) - Daphne,,infrastructure,Topography,district,,2,,,,
+Constantinople - Helenianai,Constantinople - Helenianai,,infrastructure,Topography,district,,2,,,,
+Hexakionion (Exakionion/Exokionion),Constantinople - Hexakionion (Exakionion/Exokionion),,infrastructure,Topography,district,,2,,,,
+Karya,Constantinople - Karya,,infrastructure,Topography,district,,2,,,,
+Pelagios,Constantinople - Pelagios,,infrastructure,Topography,district,,2,,,,
+Zeugma,Constantinople - Zeugma,,infrastructure,Topography,district,,2,,,,
+Temple of the Jews,Jerusalem - Temple of the Jews,,infrastructure,Religious Non-Christian,temple,,2,31.778,35.236,,"this should be collapsed with ""Synaogogue"" -- but keep somewhere In the notes that it is also referred to as ""temple of the jews"""
+Church of Gregory the Miracle Worker,Neocaesarea (Pontos) - Gregory the Miracle Worker,,infrastructure,Ecclesia,church,,2,,,,
+"Constantinople - Churches, Monasteries, Chapels","Constantinople - Churches, Monasteries, Chapels",,infrastructure,Ecclesia,church,,2,,,,
+"St. Euphemia, Church",Chalcedon - Church of St. Euphemia,,infrastructure,Ecclesia,church,,2,41.007056,28.974748,,
+St. Stratonikos,Rhegion (Thrace) - St. Stratonikos,,infrastructure,Ecclesia,church,,2,,,,
+Carthage - The Church,Carthage - The Church,Could this be the Basilica,infrastructure,Ecclesia,church,,2,,,,
+Jerusalem - The Churches,Jerusalem - The Churches,,infrastructure,Ecclesia,church,,2,,,,
+The Huge Church at Karya,Constantinople - The Huge Church at Karya,,infrastructure,Ecclesia,church,,2,,,,
+"Theotokos ton metropolitou, church of",Constantinople - Theotokos ton metropolitou,,infrastructure,Ecclesia,church,,2,,,,
+Constantinople - Helenianai Baths,Constantinople - Helenianai Baths,,infrastructure,Populus,baths,,2,,,,
+The Sacred Baptistery,Alexandria - Sacred Baptistery,,infrastructure,Ecclesia,baptistry,,2,,,,
+Aqueduct of Valens,Constantinople - Aqueduct of Valens,,infrastructure,Hydrology,aqueduct ,,2,41.0057,28.572,https://en.wikipedia.org/wiki/Valens_Aqueduct,
+"Probus, palace of",Constantinople - Probus,,infrastructure,Imperium,,,2,,,,
+Tribunal,Constantinople - Tribunal in Hebdomon Palace,,infrastructure,Imperium,tribunal,within Hebdomon Palace,3,,,,
+Antioch (Syria) - The Palace,Antioch (Syria) - The Palace,,infrastructure,Imperium,,,3,36.226687,36.16914,,"This is the approximate location; references see: the Wilber map; Giovanni Uggeri, Antiochia sull'Oronte nel IV secolo d.C., in coll. S. Patitucci; A. ASA EGER, (Re)Mapping Medieval Antioch: Urban Transformations from the Early Islamic to theMiddle Byzantine Periods"
+Theodosian Walls (Land Walls),Constantinople - Theodosian Walls (Land Walls),,infrastructure,Defense,walls,,3,,,,
+Alexandria - Kynegion,Alexandria - Kynegion,,infrastructure,Populus,theater,,3,31.194628,29.903955,"see The chronicle of Theophanes Confessor AM 5870, it is refered to the Alexandria Amphitheatre that was build in 4th century",
+Temple of Fire,Thebarmais - Temple of Fire,,infrastructure,Religious Non-Christian,temple,,3,,,,
+"Stephen in the Daphne, chapel of",Constantinople - Stephen in the Daphne,,infrastructure,Ecclesia,shrine,,3,,,,
+Column of the Tauros,Constantinople - Column of the Tauros,,infrastructure,Populus,monument,,3,,,,
+Statue of Constantine on Column of the Tauros,Constantinople - Statue of Constantine on Column of the Tauros,,infrastructure,Populus,monument,,3,,,,
+Statue of Eudoxia,Constantinople - Statue of Eudoxia,,infrastructure,Populus,monument,,3,41.009,28.979,https://www.thebyzantinelegacy.com/monuments,
+"Dalmatos/Delmatos , monastery of",Constantinople - Dalmatos/Delmatos,,infrastructure,Ecclesia,monastery,,3,,,,
+"Kallistratos, monastery of",Constantinople - Kallistratos,,infrastructure,Ecclesia,monastery,,3,,,,
+Neorion Harbor,Constantinople - Neorion,,infrastructure,Hydrology,harbour,,3,41.0166,28.975,https://tools.wmflabs.org/geohack/geohack.php?pagename=Neorion_Harbour&params=41_1_0_N_28_58_30_E_region:TR-34_type:landmark,
+Carthage - The Harbor,,Bytra,infrastructure,Hydrology,harbour,,3,36.7,10.19304,,
+Augusteus (hall) ,Constantinople - Augusteus (hall) ,,infrastructure,Imperium,hall,,3,,fc,,
+Carthage - The Gates,Carthage - The Gates,,infrastructure,Defense,gate,,3,,,,
+Constantinople - The Gates in Great Palace,Constantinople - The Gates in Great Palace,,infrastructure,Defense,gate,,3,,,,
+Forum of Constantine,Constantinople - Forum of Constantine,,infrastructure,Populus,forum,,3,41.0087,28.971644,"https://www.google.com/maps/place/Konstantin+Forumu/@41.0085098,28.9690902,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab9a8ead1be2f:0x3c02ec9aa00f8ace!8m2!3d41.0085098!4d28.9712789",
+Campus,Constantinople - Campus in Hebdomon Palace,,infrastructure,Topography,field,within Hebdomon Palace,3,,,,
+Secretum,Constantinople - Secretum,,infrastructure,Imperium,court,within Great Palace,3,,,,
+Berytos - The Church,Berytos - The Church,,infrastructure,Ecclesia,church,,3,,,,
+Carthage - The Churches,Carthage - The Churches,,infrastructure,Ecclesia,church,,3,,,,Any idea what this might be?
+Basilica of Constantinople (Of Illos),Constantinople - Basilica of Constantinople (Of Illos),,infrastructure,Ecclesia,basilica,,3,,41.0084,28.9779,On the sight of Yerebatan Sarnıcı.https://www-jstor-org.ezproxy.wesleyan.edu/stable/pdf/506250.pdf?refreqid=excelsior%3A9d3f8685f08247fd3c48572430edff41
+Hagia Sophia Great Baptistery,Constantinople - Hagia Sophia Great Baptistery,,infrastructure,Ecclesia,baptistry,within Hagia Sophia,3,,,,
+The Palatium,"I am assuming this refers to the Palatine Hill? if so, it should get a designation as such in column E (NK 1/13/20)",,infrastructure,Imperium,,,3,41.5318,12.2913,https://en.wikipedia.org/wiki/Palatine_Hill,
+Long Walls (Anastasian Walls),Constantinople - Long Walls (Anastasian Walls),,infrastructure,Defense,walls,,4,,,,
+Nisibis - The Walls,Nisibis - The Walls,,infrastructure,Defense,walls,,4,,,,
+Temple of Apollo,Antioch (Syria) - Temple of Apollo,,infrastructure,Religious Non-Christian,temple,,4,36.127942,36.143143,"This is not the exact location and need to be further confirmed. So far I only know ""The Temple of Apollo must be below the famous springs (Bell el-Ma)",
+Xerolophos (Column),Constantinople - Xerolophos (Column),,infrastructure,Populus,monument,,4,,,,
+"Bassanios, monastery of",Constantinople - Bassanios,,infrastructure,Ecclesia,monastery,,4,,,,
+"St. Mamas, Monastery of",Constantinople - St. Mamas,,infrastructure,Ecclesia,monastery,,4,40.999682,28.924072,,
+"The Sleepless Ones, monastery of",Constantinople - The Sleepless Ones,,infrastructure,Ecclesia,monastery,,4,40.996,28.929,https://www.livius.org/articles/place/constantinople-istanbul/constantinople-photos/constantinople-monastery-of-st-john-of-studius/,"Most likely meaning the Monastery of St. John the Studius, whose monks belonged to the order of the Akoimati, ""sleepless ones"""
+A Hill,Carthage - A Hill,probably referring to Byrsa hill,infrastructure,Topography,hill,,4,36.8525,10.3228,https://www.jstor.org/stable/641293?Search=yes&resultItemClick=true&searchText=byrsa&searchText=hill&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dbyrsa%2Bhill%26amp%3Bfilter%3D&ab_segments=0%2Fbasic_SYC-5144%2Fcontrol&refreqid=search%3Afb9396864bf1a01e738117bbebceaaf7&seq=1#metadata_info_tab_contents,
+Forum Bovis (of the Bull),Constantinople - Forum Bovis (of the Bull),,infrastructure,Populus,forum,,4,,,,
+Augustaion,Constantinople - Augustaion,,infrastructure,Imperium,court,,4,41.008,28.979,https://en.wikipedia.org/wiki/Augustaion,
+"Akakios, church of",Constantinople - Akakios,,infrastructure,Ecclesia,church,,4,,,,
+Diippion,Constantinople - Diippion,,infrastructure,Ecclesia,church,,4,,,"According to Mango's footnote on 565, this refers to ""the gates of the hippodrome and the space immediately in front of them"" -- this makes sense, as the Diippion is nearly always mentioned with close proximity to the hippodrome. So how should we put it on the map? Is it ""within"" the hippodrome? NOTE: if so, this is no longer a 'church' within 'ecclesia', the catagories will have to get changed",
+"St. Laurence, Church of",Constantinople - St. Laurence,,infrastructure,Ecclesia,church,,4,,,St. Laurentius?,
+Constantinople - Zeuxippos Baths,Constantinople - Zeuxippos Baths,,infrastructure,Populus,baths,,4,41.0023,28.5833,https://en.wikipedia.org/wiki/Baths_of_Zeuxippus,
+"Eleutherios, palace of",Constantinople - Eleutherios,,infrastructure,Imperium,,,4,,,,"According to Mango's footnote on p642, In the neighborhood of Aksaray (near the habor of Theodosius, which is also known as the harbor of Eleutherios)"
+"Hebdomon, Palace","Constantinople - Hebdomon, Palace",,infrastructure,Imperium,,,4,40.9831,28.8536,https://tools.wmflabs.org/geohack/geohack.php?pagename=Bak%C4%B1rk%C3%B6y&params=40_58_59_N_28_51_13_E_type:city_region:TR,
+Mesē,Constantinople - Mesē,,infrastructure,Populus,streets,,5,41.0082 to 41.0096,28.9743 to 28.9619,https://www.medievalists.net/2011/06/the-mese-main-street-of-constantinople/,"this should be a shape file? or at least a line? The mese is the main thoroughfare, a street through much of the city. This is in the CP Palimpsest map, but drawn off of the wikimap. How do we want to do this? "
+Hall of the Nineteen Couches,Constantinople - Hall of the Nineteen Couches in Great Palace,,infrastructure,Imperium,hall,within Great Palace,5,,,,
+The Chalke,Constantinople - The Chalke in Great Palace,,infrastructure,Defense,gate,,5,,,,
+"Holy St. Eirene, church of",Constantinople - Holy St. Eirene,,infrastructure,Ecclesia,church,,5,41.035,28.5852,https://en.wikipedia.org/wiki/Hagia_Irene,
+"Magnaura, palace of",Constantinople - Magnaura,,infrastructure,Imperium,,,5,41.0082,28.9794,"https://www.google.com/maps/place/Sultan+Ahmet,+Fatih%2F%C4%B0stanbul,+Turkey/@41.0060699,28.9755988,16z/data=!4m5!3m4!1s0x14cab9bd261b00a9:0xb04b7944cc9399c6!8m2!3d41.0042322!4d28.9783349",
+Holy Sepulchre,Jerusalem - Holy Sepulchre Church,,infrastructure,Ecclesia,church,,6,31.7785,35.2296,https://latitude.to/articles-by-country/il/israel/849/church-of-the-holy-sepulchre,
+"St. John the Forerunner in Studios, monastery of",Constantinople - St. John the Forerunner in Studios,,infrastructure,Ecclesia,monastery,,6,40.5946,28.5543,,
+Octagonal Church (The Great Church),Antioch (Syria) - Octagonal Church (The Great Church),,infrastructure,Ecclesia,church,,6,36.2166,36.1827,https://www.latlong.net/,
+Constantinople - Kathisma (Imperium Box) in Hippodrome,Constantinople - Kathisma (Imperium Box) in Hippodrome,,infrastructure,Imperium,room,within Hippodrome,7,,,,
+Mount of Olives,Jerusalem - Mount of Olives,,infrastructure,Topography,hill,,7,31.7779,35.2457,https://www.latlong.net/,
+Constantinople - Blachernai,Constantinople - Blachernai,,infrastructure,Topography,district,,7,41.0337,28.9375,https://latitude.to/articles-by-country/tr/turkey/41273/blachernae,
+"Anastasia, chapel/church of",Constantinople - Anastasia,,infrastructure,Ecclesia,church,,7,41.0047,28.9722,," according to this article, Janin places it in this Portico of Domninus -- should it be housed within it in the spread sheet? https://www-jstor-org.ezproxy.wesleyan.edu/stable/pdf/44170436.pdf?refreqid=excelsior%3Ab9a108b81f7b52ea10f1a39bba292c77"
+Bishop's Palace (Patriarchate),Constantinople - Patriarchal Palace,,infrastructure,Imperium,,,7,,,,
+"Dios/Dias, monastery of",Constantinople - Dios/Dias,,infrastructure,Ecclesia,monastery,,9,,,,"Is this perhaps another name for the Monastery of Stoudios? EDIT: According to Mango's footnote to AM 5980: ""On the outskirts of Constantinople but within the walls, the monastery had been founded by the Syrian monk Dios with support from Theodosios I. It was probably the second oldest monastery in Constantinople after that of Dalmatos. See Janin, Eglises, 97-9."" NK "
+Sykai/Galata/Pera,Constantinople - Sykai/Galata/Pera,,infrastructure,Topography,district,,9,,,,
+Calvary/Golgotha,Jerusalem - Calvary/Golgotha,,infrastructure,Topography,hill,,11,31.778611,35.229444,https://tools.wmflabs.org/geohack/geohack.php?pagename=Calvary&params=31_46_43_N_35_13_46_E_source:kolossus-jawiki,
+Golden,Constantinople - Golden Gate,,infrastructure,Defense,gate,,11,40.993177,28.922416,,
+Constantinople - Blachernae Great Church,Constantinople - Blachernae Great Church,,infrastructure,Ecclesia,church,,11,41.038,28.943,https://www.thebyzantinelegacy.com/churches,
+"Apostles, church of  the",Constantinople - Apostles,,infrastructure,Ecclesia,church,,12,41.111,28.5659,https://en.wikipedia.org/wiki/Church_of_the_Holy_Apostles,
+Carthage - The Palace,Carthage - The Palace,,infrastructure,Imperium,,,12,,,,
+Praetorium,Constantinople - Praetorium,,infrastructure,Populus,building,,18,,,,this is also the strategion (which we also might not have real coordinates for)
+Senate,Constantinople - Senate in Great Palace,,infrastructure,Senatus,,within Great Palace,37,,,,
+Hagia Sophia (Great Church),Constantinople - Hagia Sophia (Great Church),,infrastructure,Ecclesia,church,within Hagia Sophia,39,41.0031,28.5848,https://en.wikipedia.org/wiki/Hagia_Sophia,
+Hippodrome,Constantinople - Hippodrome,,infrastructure,Populus,stadium,within Hippodrome,41,41.006389,28.975833,https://tools.wmflabs.org/geohack/geohack.php?pagename=Hippodrome_of_Constantinople&params=41_00_23_N_28_58_33_E_region:TR_type:landmark_source:dewiki,
+"Great Palace, the",Constantinople - Great Palace,,infrastructure,Imperium,,,45,41.021,28.5838,https://en.wikipedia.org/wiki/Great_Palace_of_Constantinople,
